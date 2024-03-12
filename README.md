@@ -1,1 +1,1 @@
-# versions
+# discord.gg/mesadev
